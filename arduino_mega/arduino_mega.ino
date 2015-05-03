@@ -33,7 +33,7 @@
 #define IFC   34  /* GPIB 9  : Interface Clear */
 #define ATN   35  /* GPIB 11 : Attention */
 #define REN   36  /* GPIB 17 : Remote Enable */
-#define SRQ    2  /* GPIB 10 : Service Request
+#define SRQ    2  /* GPIB 10 : Service Request \
                      This Arduino pin must have interrupt */
 #define SRQ_i  0  /* Interrupt number for the SRQ pin (see Arduino doc) */
 #define LED   13  /* Busy signal (board is waiting), 13 is the on-board LED */
