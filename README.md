@@ -2,6 +2,17 @@ Agipibi : An Arduino to GPIB Interface
 ======================================
 ![](documentation/arduino_and_cable.jpg?raw=true)
 
+DISCLAIMER
+----------
+
+This project was never completed due to the loss of access to native GPIB
+equipments. As a result a number of planned functionnalities are not implement.
+The initial code for SRQ support on Arduino side is known to be buggy and could
+lead to a locked state. I would recommend to first inspect - or remove - these
+functions in case of trouble with an unresponsive board.
+
+Contributions are still accepted in the form of pull requests to be reviewed.
+
 Description
 -----------
 
@@ -61,7 +72,7 @@ else:
 Authors
 -------
 
-  - Thibault VINCENT <tibal@reloaded.fr>
+  - Thibault VINCENT <root@paraneko.org>
   - Mathias Helsen <helsen.mathias@gmail.com>
 
 Thanks
