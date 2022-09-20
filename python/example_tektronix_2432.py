@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  Copyright 2012,2013 Thibault VINCENT <tibal@reloaded.fr>
+#  Copyright 2012,2013 Thibault VINCENT <root@devcat.org>
 #  
 #  This file is part of Agipibi.
 #

@@ -72,7 +72,7 @@ else:
 Authors
 -------
 
-  - Thibault VINCENT <root@paraneko.org>
+  - Thibault VINCENT <root@devcat.org>
   - Mathias Helsen <helsen.mathias@gmail.com>
 
 Thanks

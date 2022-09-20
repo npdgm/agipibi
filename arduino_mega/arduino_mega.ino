@@ -1,5 +1,5 @@
 /*
- *  Copyright 2013 Thibault VINCENT <tibal@reloaded.fr>
+ *  Copyright 2013 Thibault VINCENT <root@devcat.org>
  *
  *  This file is part of Agipibi.
  *
